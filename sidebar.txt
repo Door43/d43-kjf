@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kjf:home|Door43 (kjf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kjf|d43-kjf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kjf/archive/master.zip|d43-kjf.zip]]
+
+**Recent Changes**
+{{changes>ns = kjf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kjf|Ethnologue data]]
+
